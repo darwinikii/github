@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://Last-HUB.darwinikii.repl.co/lib/uilib.lua"))();
+loadstring(game:HttpGet("https://github.com/darwinikii/github/raw/main/lib/critst.lua"))();
