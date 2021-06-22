@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(("https://Last-HUB.darwinikii.repl.co/lib/bloxyn"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/darwinikii/github/main/lib/blxyn"),true))()
 local player2 = game.Players.LocalPlayer
 local ScreenGui2 = Instance.new("ScreenGui")
 local TextButton = Instance.new("TextButton")
