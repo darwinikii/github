@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://Last-HUB.darwinikii.repl.co/lib/afk"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/darwinikii/github/main/lib/antafk"),true))()
