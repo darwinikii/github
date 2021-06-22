@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(("https://Last-HUB.darwinikii.repl.co/lib/kingpie"),true))()
+loadstring(game:HttpGet(("https://github.com/darwinikii/github/raw/main/lib/kngp"),true))()
 local player2 = game.Players.LocalPlayer
 local ScreenGui2 = Instance.new("ScreenGui")
 local TextButton = Instance.new("TextButton")
