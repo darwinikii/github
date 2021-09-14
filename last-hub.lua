@@ -1,4 +1,4 @@
-if game.GameId == 2753915549 then
+if game.GameId == 994732206 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/darwinikii/github/main/lib/blxyn'), true))()
     return
 end
